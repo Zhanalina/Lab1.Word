@@ -1,0 +1,13 @@
+﻿"Lab1.exe" (Win32). Загружено "C:\Users\Rey\OneDrive\Рабочий стол\Lab1\x64\Debug\Lab1.exe". Символы загружены.
+"Lab1.exe" (Win32). Загружено "C:\Windows\System32\ntdll.dll". 
+"Lab1.exe" (Win32). Загружено "C:\Windows\System32\kernel32.dll". 
+"Lab1.exe" (Win32). Загружено "C:\Windows\System32\KernelBase.dll". 
+"Lab1.exe" (Win32). Загружено "C:\Windows\System32\msvcp140d.dll". 
+"Lab1.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140_1d.dll". 
+"Lab1.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140d.dll". 
+"Lab1.exe" (Win32). Загружено "C:\Windows\System32\ucrtbased.dll". 
+Поток 0xc80 завершился с кодом 0 (0x0).
+Поток 0x500c завершился с кодом 3221225786 (0xc000013a).
+Поток 0x1f90 завершился с кодом 3221225786 (0xc000013a).
+Поток 0x3db4 завершился с кодом 3221225547 (0xc000004b).
+Программа "[15088] Lab1.exe" завершилась с кодом 3221225786 (0xc000013a).
